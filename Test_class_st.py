@@ -6,10 +6,10 @@ import pyodbc
 st.header("Class")
 st.text("Test context")
 
-# server = '172.28.8.127'
+# server = 'xxxx'
 # database = 'TEMP_SAP_DAILY'
 # username = 'oe_user'
-# password = 'OE@93979'
+# password = 'xxxx'
 
 # connection_string = f'DRIVER={{SQL Server}};SERVER={server};DATABASE={database};UID={username};PWD={password}'
 # connection = pyodbc.connect(connection_string)
